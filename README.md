@@ -39,11 +39,11 @@ Furthermore, up until recent developments in the last 10 years, no hopping robot
 
 ## Current Roadmap
 
-[x] Literature review
-[] Initial design proposal
-[] Order/fabricate parts
-[] Create basic prototype
-[] Test basic prototype
+- [x] Literature review
+- [ ] Initial design proposal
+- [ ] Order/fabricate parts
+- [ ] Create basic prototype
+- [ ] Test basic prototype
 
 ## Tools and Technologies
 
