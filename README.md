@@ -2,10 +2,6 @@
 
 Everything related to my Bowdoin College senior Honor's project: Creating a Single Legged Hopping Robot.
 
-<p align="center">
-  <img src="https://github.com/DJRGVC/Ricoeur-Transcription/blob/master/updates/images/ricoeur_headshot.jpg?raw=true" alt="Ricoeur"/>
-</p>
-
 **Author**: Daniel Grant  
 
 **Date Begun**: October 21, 2024  
