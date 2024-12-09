@@ -8,7 +8,7 @@ Everything related to my Bowdoin College senior Honor's project: Creating a Sing
 
 **Institution**: Bowdoin College  
 
-**Advisor**: Laura Toma
+**Advisor**: Laura Toma, Bowdoin College
 
 **Contact**: [dgrant2@bowdoin.edu](mailto:dgrant2@bowdoin.edu)  
 
