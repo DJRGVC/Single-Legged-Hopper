@@ -2,7 +2,7 @@
 #include <webots/motor.h>
 #include <webots/distance_sensor.h>
 
-#define TIME_STEP 64
+#define TIME_STEP 64 (ms)
 
 int main() {
   // initialize Webots
