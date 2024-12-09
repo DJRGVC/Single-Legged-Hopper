@@ -23,11 +23,12 @@ But why design a hopping robot? Although the dynamics of a hopping robot can be 
 
 Furthermore, up until recent developments in the last 10 years, no hopping robot had been able to achieve true autonomy in 3D environment without the use of tethers, external battery supplies, or external sensors. This project aims to add to the short list of robots that have achieved this feat.
 
-
 ## Recent Updates
 
-- [Update 1: Basic Circuit Design, Actuator Analysis, Literature Review](updates/reports/November8_2024.md)
-
+- [Update 1: Literature Review and Simulation Tool Familiarization ](updates/reports/December2.md)
+- [Update 2: Initial Robot Design, Material Procurement, and 3D Print Testing](updates/reports/December5.md)
+- [Update 3: Simulation Development and Testing Framework](updates/reports/December9.md)
+- [Update 4: Control System Refinement and Expanded Simulation Testing](updates/reports/December12.md)
 
 ## Workflow
 
@@ -40,8 +41,8 @@ Furthermore, up until recent developments in the last 10 years, no hopping robot
 ## Current Roadmap
 
 - [x] Literature review
-- [ ] Initial design proposal
-- [ ] Order/fabricate parts
+- [x] Initial design proposal
+- [x] Order/fabricate parts
 - [ ] Create basic prototype
 - [ ] Test basic prototype
 
@@ -51,11 +52,9 @@ Furthermore, up until recent developments in the last 10 years, no hopping robot
 - **Control Software**: ROS
 - **Simulation Software**: Gazebo
 
-## Actuators / Sensors
+### Goals and Vision  
 
-- **Actuators**: TBD
-- **Sensors**: TBD
-
+This project aspires to build a system that not only revisits the foundational work of Raibert and others but also pushes the boundaries of what single-legged robots can achieve. By combining modern simulation tools, advanced control techniques, and innovative hardware design, the end goal is to produce a hopping robot capable of operating autonomously in a 3D environment without reliance on external power supplies or sensors.
 
 ## Contribution Guidelines
 
@@ -64,6 +63,5 @@ Furthermore, up until recent developments in the last 10 years, no hopping robot
 ## Acknowledgments
 
 This research is being conducted under the guidance of Professor Laura Toma at Bowdoin College. Special thanks to the Computer Science Department for their support. Also, I would like to acknowledge William Silver for his introduction to electrical engineering, and general guidance throughout the Fall 2024 semester.
-
 
 
