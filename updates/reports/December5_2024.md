@@ -44,7 +44,7 @@ I printed six objects, four of which are listed below, to test a variety of mate
 - **Print 2**: A catapult, testing the printer's ability to print complex, moving parts.  
   ![Catapult](https://www.printables.com/model/977936-catapult-snap-fit-model)
 
-  - **Print 3**: A small, light plane, testing the printer's ability to print small, detailed objects.
+  - **Print 3**: A small, light plane, testing the printer's ability to print small, detailed objects.                
   ![Plane](https://www.printables.com/model/430012-ultralight-2gram-glider-print-in-place/files)
 
 - **Print 4**: Concentric Rings, testing the printer's ability to print moving parts.  
