@@ -11,6 +11,7 @@ This week, I transitioned to using CoppeliaSim for robot modeling and simulation
 ---
 
 
+
 ## Detailed Description  
 
 ### Simulation Development  
@@ -50,6 +51,7 @@ To ensure the physical prototype aligns with the simulated model, I began sourci
 ---
 
 
+
 ### Challenges  
 - Fine-tuning the actuator and spring-damper parameters in CoppeliaSim required iterative adjustments to achieve realistic motion.  
 - Finding lightweight yet durable components for the frame proved challenging due to availability constraints.  
@@ -64,6 +66,7 @@ To ensure the physical prototype aligns with the simulated model, I began sourci
 
 ---
 
+
 ### References  
 - [CoppeliaSim](https://www.coppeliarobotics.com/)  
 - [ServoCity](https://www.servocity.com/)  
@@ -72,5 +75,6 @@ To ensure the physical prototype aligns with the simulated model, I began sourci
 - [Tenergy](https://www.tenergy.com/)  
 
 ---
+
 
 
