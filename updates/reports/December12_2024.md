@@ -1,10 +1,3 @@
-# Update 4: Control System Refinement and Expanded Simulation Testing 
-
-**Date**: December 2, 2024  
-**Author**: Daniel Grant  
-**Institution**: Bowdoin College  
-Advisor: Dr. Laura Toma
-
 # Update 4: Simulation Expansion Using CoppeliaSim and Component Selection
 
 **Date**: December 12, 2024  
