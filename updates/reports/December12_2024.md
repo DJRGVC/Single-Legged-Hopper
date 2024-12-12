@@ -6,9 +6,10 @@
 Advisor: Dr. Laura Toma  
 
 ## Summary  
-This week, I transitioned to using CoppeliaSim for robot modeling and simulation. The platform's versatility and support for integrated physics engines enabled the creation of a more detailed and interactive model of the vertical hopping robot. Additionally, I researched potential components for the physical build and identified suppliers for critical parts.
+This week, I transitioned to using CoppeliaSim for robot modeling and simulation. The platform's versatility and support for integrated physics engines enabled the creation of a more detailed and interactive model of the vertical hopping robot (as compared to Gazebo--plus, it is a bit more intuitive to use). Additionally, I researched potential components for the physical build and identified suppliers for critical parts. A few have been ordered for next week when I should have more time to build my second prototype.
 
 ---
+
 
 ## Detailed Description  
 
@@ -48,6 +49,7 @@ To ensure the physical prototype aligns with the simulated model, I began sourci
 
 ---
 
+
 ### Challenges  
 - Fine-tuning the actuator and spring-damper parameters in CoppeliaSim required iterative adjustments to achieve realistic motion.  
 - Finding lightweight yet durable components for the frame proved challenging due to availability constraints.  
@@ -70,4 +72,5 @@ To ensure the physical prototype aligns with the simulated model, I began sourci
 - [Tenergy](https://www.tenergy.com/)  
 
 ---
+
 
