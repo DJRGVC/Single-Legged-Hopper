@@ -1,3 +1,4 @@
+# Description: This script demonstrates how to apply random preprocessing techniques to an image.
 import os
 import random
 import cv2
