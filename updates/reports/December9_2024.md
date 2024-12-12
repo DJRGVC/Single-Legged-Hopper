@@ -6,7 +6,7 @@
 Advisor: Dr. Laura Toma
 
 ## Summary  
-This week, I focused on expanding the simulation model for the vertical hopping robot, emphasizing detailed kinematic behavior and initial control algorithm testing. I also developed a comprehensive testing framework to evaluate the robot's simulated performance and explored tools for generating realistic environments for future trials.
+This weekend, I focused on expanding the simulation model for the vertical hopping robot, emphasizing detailed kinematic behavior and initial control algorithm testing. I also developed a basic testing framework to evaluate the robot's simulated performance and explored tools for generating realistic environments for future trials.
 
 ## Detailed Description  
 
@@ -17,8 +17,8 @@ The simulation environment has been expanded to model the robot’s dynamics wit
 
 1. **Simulation Development**:  
    - Refined the Gazebo simulation to include a more accurate spring-mass model for vertical hopping.  
-   - Added virtual sensors to simulate accelerometer and force feedback, providing data for control system tuning.  
-   - Implemented a simplified terrain model to test hopping stability under different conditions.  
+   - Added virtual sensor(s) to simulate accelerometer and force feedback, providing data for control system tuning.  
+   - Implemented a simplified terrain model to test hopping stability under different conditions. [still in progress]
 
 2. **Control System Design**:  
    - Began developing a PID-based control system for achieving stable vertical hopping.  
