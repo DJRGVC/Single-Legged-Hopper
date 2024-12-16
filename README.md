@@ -29,6 +29,7 @@ Furthermore, up until recent developments in the last 10 years, no hopping robot
 - [Update 2: Initial Robot Design, Material Procurement, and 3D Print Testing](updates/reports/December5_2024.md)
 - [Update 3: Simulation Development and Testing Framework](updates/reports/December9_2024.md)
 - [Update 4: Control System Refinement and Expanded Simulation Testing](updates/reports/December12_2024.md)
+- [Update 5: Prototyping Preparation and New Components](updates/reports/December16_2024.md)
 
 ## Workflow
 
