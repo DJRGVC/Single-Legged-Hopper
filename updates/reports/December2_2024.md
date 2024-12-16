@@ -12,6 +12,7 @@ My initial design document, alongside literature review, is linked here:
 
 [Link to Literature Review](../Literature_Review.pdf)
 
+Time Spent: 13 hrs
 
 ## Detailed Description  
 

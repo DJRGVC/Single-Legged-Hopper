@@ -8,7 +8,10 @@ Advisor: Dr. Laura Toma
 ## Summary  
 This week, I transitioned to using CoppeliaSim for robot modeling and simulation. The platform's versatility and support for integrated physics engines enabled the creation of a more detailed and interactive model of the vertical hopping robot (as compared to Gazebo--plus, it is a bit more intuitive to use). Additionally, I researched potential components for the physical build and identified suppliers for critical parts. A few have been ordered for next week when I should have more time to build my second prototype.
 
+Time Spent: 7hrs
+
 ---
+
 
 
 

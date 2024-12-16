@@ -14,6 +14,8 @@ I have not had significant experience with 3D printing before--as such, as a lat
 
 Once it arrived, I spent a few days learning how to use it and testing different materials and settings. I have listed my prints below. I additionally conducted a basic test of printing my own designs, and managed to produce a print of reasonable quality.
 
+Time Spent: 5.5 hrs
+
 
 ## Detailed Description  
 

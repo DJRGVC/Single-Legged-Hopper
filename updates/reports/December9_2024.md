@@ -8,6 +8,8 @@ Advisor: Dr. Laura Toma
 ## Summary  
 This weekend, I focused on expanding the simulation model for the vertical hopping robot, emphasizing detailed kinematic behavior and initial control algorithm testing. I also developed a basic testing framework to evaluate the robot's simulated performance and explored tools for generating realistic environments for future trials.
 
+Time Spent: 6 hrs
+
 ## Detailed Description  
 
 ### Overview  
